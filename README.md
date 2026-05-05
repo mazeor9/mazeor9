@@ -56,16 +56,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mazeor9&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
----
-
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mazeor9&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
